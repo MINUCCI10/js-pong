@@ -1,2 +1,0 @@
-# js-pong
-- JOGO PONG
